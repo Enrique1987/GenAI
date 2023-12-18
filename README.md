@@ -43,7 +43,12 @@ This approach allows the model to pull in relevant external knowledge to improve
 `Fine-Tuning`: The process of adjusting a pre-trained model on a specific dataset or for a specific task.
 It's a common practice in GenAI to achieve high performance without extensive training.
 
-**What is the difference between RAG and Fine-Tuning**
+`Embeddings`: Embeddings are numerical representations of text, words, or other types of data in a high-dimensional space, where the positioning and distance between points capture semantic or contextual relationships. 
+They enable machine learning models to process and analyze complex data (like text) by converting it into a format that algorithms can understand and work with efficiently.
+
+![Description of Image](img/09_01_Embeddings.png)
+
+**What is the difference between RAG and Fine-Tuning ?**
 
 Fine-Tuning involves adjusting a pre-trained model on a new, specific dataset or task, enhancing its performance in that particular context.
 It's a method to tailor a general-purpose model to specialized requirements.
