@@ -18,7 +18,7 @@ Enviroment
 ```python
 conda create --name myenv python=3.9
 conda activate myenv
-````
+```
 
 Download model
 
